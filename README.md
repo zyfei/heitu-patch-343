@@ -35,7 +35,7 @@
 3. **删除 CSV 中全部数据，只保留第一行表头**；
 4. 添加自己的热修数据。
 
-示例：`patch-343\DBFilesClient\Hotfix\Spell.csv`
+示例：`patch-343\Hotfix\Spell.csv`
 
 > ⚠️ Hotfix 是**增量更新**：只保留你新增或修改的行，切勿把导出的全量 DB2 数据都放进去。
 
